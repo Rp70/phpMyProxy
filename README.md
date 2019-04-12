@@ -10,4 +10,4 @@ I'm sorry for a very long time of disappearance of the project. Oh my god, it's 
 Again, welcomes your contributions.
 
 # Demo
-The temporarily demo: http://www.magyc.net/phpmyproxy/. This site wasn't setup by me. Someone did it and keep it almost original. Thanks magyc.net for doing that!
+The temporarily demo: http://www.magyc.net/phpmyproxy/ (insecure HTTP). This site wasn't setup by me. Someone did it and keep it almost original. Thanks magyc.net for doing that!
