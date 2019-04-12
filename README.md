@@ -1,5 +1,5 @@
 # phpMyProxy
-phpMyProxy is a free, light and powerful php proxy script programed by eProxies.info. PLEASE use this script to protect your privacy. DON'T BE EVIL!
+phpMyProxy is a free, light and powerful php proxy script programed by eProxies.info. PLEASE use this script to protect your privacy only, DON'T BE EVIL! phpMyProxy developers are not responsible to anything you did. 
 
 # Version
 Latest version: 1.0.3 since 11 years ago.
